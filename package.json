@@ -1,0 +1,1 @@
+{"scripts":{"test":"node --check assets/js/main.js"},"devDependencies":{}}
